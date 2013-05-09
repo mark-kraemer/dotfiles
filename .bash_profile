@@ -47,4 +47,4 @@ alias subl="'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl'"
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
 
-export LSCOLORS=g
+export LSCOLORS=gxfxcxdxbxegedabagacad
